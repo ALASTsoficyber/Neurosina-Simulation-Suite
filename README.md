@@ -62,6 +62,6 @@ This repository is intended to serve as the **research infrastructure** for:
 ## 🛠 Usage
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/SofiCyber-Brain-Simulator.git
-cd SofiCyber-Brain-Simulator
+git clone https://github.com/YOUR_USERNAME/Neurosina-Simulation-Suite.git
+cd Neurosina-Simulation-Suite
 python neurosina_scripts_bundle.py![IMG_20250711_012149_307](https://github.com/user-attachments/assets/f87523c4-ccac-4254-8ce2-82fb6c3f10d9)
